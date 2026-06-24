@@ -68,7 +68,8 @@ on:
           - oneplus_pad_4
           - oneplus_pad_4_Canary
           - oneplus_ace6_ultra
-          - oppo_find_x6
+          - oppo_find_x6_pro_t
+          - oneplus_11_t
       MANAGER_SOURCE:
         type: choice
         description: "管理器调用方向"

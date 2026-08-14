@@ -69,7 +69,8 @@ on:
           - oneplus_pad_4_Canary
           - oneplus_ace6_ultra
           - oneplus_ace6_ultra_Canary
-          - oppo_find_x6_pro_t
+          - oppo_find_x6_pro_v
+
           - oneplus_11_t
       MANAGER_SOURCE:
         type: choice

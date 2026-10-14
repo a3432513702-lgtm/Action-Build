@@ -64,7 +64,7 @@ on:
           - oneplus_15t
           - oneplus_pad_3_pro
           - oneplus_pad_4
-          - oneplus_ace6_ultra
+          - oppo_find_x6_pro_v
       SUSFS_CI:
         type: choice
         description: "SUSFS模块下载调用方向//SUSFS module branch"
